@@ -4,6 +4,23 @@ body {
 
 }
 
-.a {
+a {
     color: white !important;
 }
+
+
+
+ /* Ejecto Navbar Scroll */
+
+ .fixed-top.scrolled {
+    background-color: #0dcaf0 !important;
+    transition: background-color 200ms linear;
+  }
+
+
+  /* Footer */
+  
+  footer {
+    /* border: 5px solid yellow; */
+    height: 80px;
+  }
