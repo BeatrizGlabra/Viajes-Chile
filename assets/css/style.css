@@ -1,6 +1,9 @@
 /*  Establece tipo de fuente y color principal para todo el contenido del cuerpo de la pagina */
 body {
     font-family:"Raleway"; sans-serif
-    color: white;
+
 }
 
+.a {
+    color: white !important;
+}
