@@ -4,11 +4,6 @@ body {
 
 }
 
-a {
-    color: white !important;
-}
-
-
 
  /* Ejecto Navbar Scroll */
 
@@ -19,7 +14,7 @@ a {
 
 
   /* Footer */
-  
+
   footer {
     /* border: 5px solid yellow; */
     height: 80px;
